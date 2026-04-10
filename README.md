@@ -4,7 +4,7 @@
 
 I'm a passionate programmer from Pakistan building smart, AI-integrated applications directly from the command line. I focus on writing clean code and creating intuitive user experiences. Welcome to my digital workspace! 🚀
 
-🌍 **Check out my official portfolio:**(https://devsamikhan.github.io)
+🌍 **Check out my official portfolio:** [devsamikhan.github.io](https://devsamikhan.github.io)
 
 ---
 
@@ -21,9 +21,9 @@ I'm a passionate programmer from Pakistan building smart, AI-integrated applicat
 * ⏰ **My-Clock-Project:** A custom-built Android clock utility.
 
 ### 📊 GitHub Stats
-!(https://github-readme-stats.vercel.app/api?username=devsamikhan&show_icons=true&theme=radical&hide_border=true)
+![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsamikhan&show_icons=true&theme=radical&hide_border=true)
 
 ### 📫 Let's Connect!
-(https://img.shields.io/badge/Portfolio-Website-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devsamikhan.github.io)
-(https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devsamikhan)
-(https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devsamikhan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devsamikhan.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devsamikhan)
+[![X (Twitter)](https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devsamikhan)
