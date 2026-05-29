@@ -1,5 +1,5 @@
 # ⚡ Hello, World! I am Sami Ullah Khan 🚀
-### Full stake Developer | Native Infrastructure Developer | Vibe Coder
+### Full Stack Developer | Native Infrastructure Developer | Vibe Coder
 
 <p align="left">
   <a href="https://devsamikhan.github.io"><img src="https://img.shields.io/badge/Portfolio-Online-06b6d4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
