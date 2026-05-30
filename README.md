@@ -1,4 +1,4 @@
-# ⚡ Hello, World! I am Sami Ullah Khan 🚀
+#  Hello, World! I am Sami Ullah Khan 
 ### Full Stack Developer | Native Infrastructure Developer | Vibe Coder
 
 <p align="left">
