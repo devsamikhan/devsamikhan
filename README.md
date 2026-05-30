@@ -70,7 +70,7 @@ I am a passionate **Android & Cross-Platform Developer** from Pakistan specializ
 
 ---
 
-### 📊 Engineering Analytics & Telemetry
+### Engineering Analytics & Telemetry
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=devsamikhan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sami's GitHub Stats" width="48%">
@@ -79,7 +79,7 @@ I am a passionate **Android & Cross-Platform Developer** from Pakistan specializ
 
 ---
 
-### 📜 Verified Credentials
+###  Verified Credentials
 * **Google AI Professional Certificate** – *Coursera Academy* Specialized engineering tracks covering AI-driven App Building, Predictive Telemetry Models, and Production Data Analysis.
 
 ---
