@@ -50,7 +50,7 @@ I am a passionate **Android & Cross-Platform Developer** from Pakistan specializ
 
 ---
 
-### 🚀 Production-Grade Applications
+###  Production-Grade Applications
 
 #### 🧠 AI-Powered Smart Notes
 * **Tech Stack:** Kotlin, Jetpack Compose, Gemini API Integration
@@ -84,11 +84,11 @@ I am a passionate **Android & Cross-Platform Developer** from Pakistan specializ
 
 ---
 
-### 📫 Operational Checkpoints
+###  Operational Checkpoints
 * 🌍 **Live Portfolio:** [devsamikhan.github.io](https://devsamikhan.github.io)
 * 💼 **Professional Network:** [linkedin.com/in/devsamikhan](https://linkedin.com/in/devsamikhan)
 * 🐦 **Developer Logs:** [@devsamikhan](https://x.com/devsamikhan)
 
 <p align="center">
-  <sub>Configured & Deployed via Command Line Interface with strict compiler compliance. ⚡</sub>
+  <sub>Configured & Deployed via Command Line Interface with strict compiler compliance. </sub>
 </p>
