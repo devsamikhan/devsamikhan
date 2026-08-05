@@ -1,94 +1,187 @@
-#  Hello, World! I am Sami Ullah Khan 
-### Full Stack Developer | Native Infrastructure Developer | Vibe Coder
+# 👋 Hi, I'm Sami Ullah Khan
 
-<p align="left">
-  <a href="https://devsamikhan.github.io"><img src="https://img.shields.io/badge/Portfolio-Online-06b6d4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/devsamikhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/devsamikhan"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
-</p>
+<div align="center">
 
-I am a passionate **Android & Cross-Platform Developer** from Pakistan specializing in crafting fluid user experiences and embedding cutting-edge AI orchestration into production-ready host applications. I build highly responsive software utilities directly from the command line, bridging the gap between hardware-level device telemetry and modern frontend design systems.
+# AI Software Engineer • Full-Stack Developer • Systems Programming Enthusiast
 
----
+Building intelligent software, modern web applications, AI automation, and experimental systems.
 
-### 🛠️ Core Technology Matrix
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge)](https://devsamikhan.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-devsamikhan-181717?style=for-the-badge&logo=github)](https://github.com/devsamikhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sami_Ullah_Khan-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/devsamikhan1)
 
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>Mobile Systems</strong></td>
-    <td align="center" width="25%"><strong>Backend & Automation</strong></td>
-    <td align="center" width="25%"><strong>AI Infrastructure</strong></td>
-    <td align="center" width="25%"><strong>Core DevOps & Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="top">
-      • Kotlin<br>
-      • Jetpack Compose<br>
-      • Native Android SDK<br>
-      • Cross-Platform UI
-    </td>
-    <td align="top">
-      • Node.js / Express<br>
-      • Rust / Tauri Systems<br>
-      • Google Apps Script<br>
-      • Persistent Databases
-    </td>
-    <td align="top">
-      • Gemini AI Studio SDK<br>
-      • Prompt Engineering<br>
-      • Cognitive UI Engines<br>
-      • Predictive Algorithms
-    </td>
-    <td align="top">
-      • Terminal-Centric Workflow<br>
-      • Git Engine / Version Control<br>
-      • Supabase / Firebase v10<br>
-      • Vite Production Bundling
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-###  Production-Grade Applications
+# 🚀 About Me
 
-#### 🧠 AI-Powered Smart Notes
-* **Tech Stack:** Kotlin, Jetpack Compose, Gemini API Integration
-* **Architecture:** Implements reactive state management coupled with an adaptive emotion/mood-driven layout system. Integrates LLM summaries to auto-tokenize and organize unstructured logs into clean actionable insights.
+I'm an AI Software Engineer and Full-Stack Developer passionate about building modern software powered by Artificial Intelligence.
 
-#### ⚡ Bijli Bot Control Center
-* **Tech Stack:** Tauri (Rust Native Backend), React + TypeScript, Recharts
-* **Architecture:** A high-end background telemetry agent tracking client power grid stability and hardware states. Features permanent granular outage tracking logs and a 24-hour predictive pattern analyzer paired with automated email gateways.
+My interests include:
 
-#### 📥 Sami Titan V6 (sami-downloader)
-* **Tech Stack:** Jetpack Compose, Native Media Extraction Pipeline
-* **Architecture:** A fast, completely ad-free standalone media extractor and downloader app utilizing clean native streams to intercept and download audio/video assets seamlessly.
+- 🤖 Artificial Intelligence
+- 💻 Full-Stack Development
+- ⚙️ Systems Programming
+- 🧠 Programming Language Design
+- 🖥️ Operating Systems
+- 🔥 Automation
+- ☁️ Cloud Technologies
+- 🌐 Open Source
 
-#### 🏫 BLS School LMS
-* **Tech Stack:** WordPress Core, FTP / cPanel Administration, Automation Engines
-* **Architecture:** A comprehensive, securely federated Learning Management System managing school database infrastructure, custom mail routers, and communication workflows.
-
----
-
-### Engineering Analytics & Telemetry
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsamikhan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sami's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsamikhan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
-</p>
+I enjoy transforming ambitious ideas into real software while continuously exploring advanced computer science concepts.
 
 ---
 
-###  Verified Credentials
-* **Google AI Professional Certificate** – *Coursera Academy* Specialized engineering tracks covering AI-driven App Building, Predictive Telemetry Models, and Production Data Analysis.
+# 🛠 Tech Stack
+
+## Programming Languages
+
+- Python
+- JavaScript
+- TypeScript
+- Kotlin
+- Rust
+- HTML5
+- CSS3
+
+## Frontend
+
+- React.js
+- Next.js
+- Tailwind CSS
+
+## Backend
+
+- Node.js
+- Firebase
+- Supabase
+- REST APIs
+- Google Apps Script
+
+## AI & Automation
+
+- Prompt Engineering
+- LLM Integration
+- AI Workflow Automation
+- Google AI
+- OpenAI APIs
+
+## Systems
+
+- Linux
+- Operating Systems
+- Compiler Design
+- Data Structures
+- Algorithms
+- Software Architecture
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Firebase
 
 ---
 
-###  Operational Checkpoints
-* 🌍 **Live Portfolio:** [devsamikhan.github.io](https://devsamikhan.github.io)
-* 💼 **Professional Network:** [linkedin.com/in/devsamikhan](https://linkedin.com/in/devsamikhan)
-* 🐦 **Developer Logs:** [@devsamikhan](https://x.com/devsamikhan)
+# 🌟 Featured Projects
 
-<p align="center">
-  <sub>Configured & Deployed via Command Line Interface with strict compiler compliance. </sub>
-</p>
+## 🖥 SamiOS
+
+An experimental operating system focused on learning low-level systems programming, kernel concepts, and operating system architecture.
+
+---
+
+## ⚡ Aether Programming Language
+
+An experimental programming language exploring custom syntax, parser concepts, compiler architecture, and language design.
+
+---
+
+## 💡 Sami Programming Language
+
+Research project focused on compiler fundamentals, syntax engineering, and language architecture.
+
+---
+
+## 🌐 Sami Mega Portfolio
+
+A modern developer portfolio featuring terminal-inspired UI, responsive design, project showcases, and AI-focused branding.
+
+**Highlights**
+
+- Modern UI
+- Responsive Design
+- Performance Optimized
+- Built with Next.js & React
+
+---
+
+## ⚡ Bijli Bot
+
+Python automation project designed to simplify repetitive electricity-related workflows.
+
+---
+
+# 📊 GitHub Statistics
+
+> GitHub automatically displays contribution graphs and repository statistics on your profile.
+
+---
+
+# 🎯 Current Focus
+
+- Artificial Intelligence
+- AI Agents
+- Full-Stack Applications
+- Operating Systems
+- Programming Languages
+- Open Source
+- Modern Web Technologies
+
+---
+
+# 🎓 Education
+
+**Intermediate (ICS – Computer Science)**
+
+Punjab Group of Colleges (PGC)
+
+---
+
+# 📜 Certifications
+
+- Google AI Professional
+- Claude AI Integration & Prompt Engineering
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
+samikhanniazi278@gmail.com
+
+🌐 **Portfolio**
+
+https://devsamikhan.github.io
+
+💻 **GitHub**
+
+https://github.com/devsamikhan
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/devsamikhan1
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories.
+
+*"Code. Learn. Build. Share."*
+
+</div>
